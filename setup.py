@@ -29,6 +29,7 @@ setup(
         "cplxmodule.nn.relevance.complex",
         "cplxmodule.nn.relevance.extensions",
         "cplxmodule.nn.relevance.extensions.real",
+        "cplxmodule.nn.relevance.extensions.complex",
         "cplxmodule.nn.masked",
         "cplxmodule.nn.utils",
         "cplxmodule.utils",
